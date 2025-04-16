@@ -1,7 +1,7 @@
 
 import InstalledAS
 import ASProject
-import subprocess
+from subprocess import call
 import shutil
 import sys
 import argparse
